@@ -1,0 +1,25 @@
+{
+  "name": "countriesdata",
+  "version": "1.0.0",
+  "description": "Country API",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rdttkab/country-details.git"
+  },
+  "author": "Rediet Tekola",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rdttkab/country-details/issues"
+  },
+  "homepage": "https://github.com/Rdttkab/country-details#readme",
+  "devDependencies": {
+    "terser-webpack-plugin": "^5.0.3",
+    "webpack": "^5.10.1",
+    "webpack-cli": "^4.2.0"
+  }
+}
